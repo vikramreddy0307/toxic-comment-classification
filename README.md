@@ -1,6 +1,7 @@
 # toxic-comment-classification
 The Kaggle competition for toxic comment classification about detection of different types of toxic comments by 
-classifying them into one or more labels from 
+classifying them into one or more labels.
+
 Data has a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are:
 
 1.toxic
