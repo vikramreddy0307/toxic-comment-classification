@@ -10,6 +10,5 @@ Data has a large number of Wikipedia comments which have been labeled by human r
 4.threat
 5.insult
 6.identity_hate
+As it is a classification problem, I have designed a model which predicts a probability of each type of toxicity for each comment and resulted in good accuracy and made a complete report of the project.
 
-
-we must create a model which predicts a probability of each type of toxicity for each comment.
