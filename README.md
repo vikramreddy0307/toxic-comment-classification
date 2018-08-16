@@ -30,7 +30,7 @@ Data has a large number of Wikipedia comments which have been labeled by human r
 # Modelling:
 
 * Model selection:I have selected random forest algorithm after trying with other algorithms 
-* Sampling selection:I have used K_fold cross validation to avoid overfitting
+* Validation techniques:I have used K_fold cross validation to avoid overfitting
  and the last step computing results and checking the accuracu on test data.
 
 
